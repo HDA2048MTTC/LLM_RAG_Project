@@ -1,0 +1,160 @@
+{
+  "metrics": {
+    "total_questions": 10,
+    "successful_retrievals": 10,
+    "hit_rate": 1.0,
+    "average_latency": 12.136241245269776
+  },
+  "results": [
+    {
+      "question": "How much protein do I need in a day?",
+      "answer": "About 50 grams for a 140-pound person, or about 70 grams for a 200-pound person.",
+      "sources": [
+        "2_Protien.txt",
+        "2_Protien.txt",
+        "1_Fiber.txt"
+      ],
+      "contexts": [
+        "ts get a minimum of 0.8 grams of protein for every kilogram of body weight per day, or just over 7 grams for every 20 pounds of body weight.\nFor a 140-pound person, that means about 50 grams of protein each day.\nFor a 200-pound person, that means about 70 grams of protein each day.\n",
+        " acids. Because we don\u2019t store amino acids, our bodies make them in two different ways: either from scratch, or by modifying others. Nine amino acids\u2014histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan, and valine\u2014known as the essential amino acids, must come from food.\n\nHow Much Protein Do I Need?\nThe National Academy of Medicine recommends that adults get a minimum of 0.8 grams of protein for every kilogram of body weight per day, or just over 7 grams for e",
+        " of fiber per day for good health, but most Americans get only about 15 grams a day. Great sources are whole grains, whole fruits and vegetables, legumes, and nuts.\n\nTips for increasing fiber intake:\nEat whole fruits instead of drinking fruit juices.\nReplace white rice, bread, and pasta with minimally processed brown rice and other whole grains like barley, millet, amaranth, farro, and\nAdd high-fiber foods to current meals: 1-2 tablespoons of almonds, ground flaxseeds, or chia seeds to cereals; "
+      ],
+      "time": 11.332679271697998
+    },
+    {
+      "question": "How much Fiber do I need per day?",
+      "answer": "At least 25 to 35 grams of fiber per day for good health, but most Americans get only about 15 grams a day.",
+      "sources": [
+        "1_Fiber.txt",
+        "1_Fiber.txt",
+        "1_Fiber.txt"
+      ],
+      "contexts": [
+        " of fiber per day for good health, but most Americans get only about 15 grams a day. Great sources are whole grains, whole fruits and vegetables, legumes, and nuts.\n\nTips for increasing fiber intake:\nEat whole fruits instead of drinking fruit juices.\nReplace white rice, bread, and pasta with minimally processed brown rice and other whole grains like barley, millet, amaranth, farro, and\nAdd high-fiber foods to current meals: 1-2 tablespoons of almonds, ground flaxseeds, or chia seeds to cereals; ",
+        "Fiber\nFiber is a type of carbohydrate that the body can\u2019t digest. Though most carbohydrates are broken down into sugar molecules called glucose, fiber cannot be broken down into sugar molecules, and instead it passes through the body undigested. Fiber helps regulate the body\u2019s use of sugars, helping to keep hunger and blood sugar in check.\nChildren and adults need at least 25 to 35 grams of fiber per day for good health, but most Americans get only about 15 grams a day. Great sources are whole g",
+        "nchy raw vegetables or a handful of almonds instead of chips and crackers.\nSubstitute beans or legumes for meat two to three times a week in chili and soups.\nIf it is difficult to eat enough fiber through food, a fiber supplement such as psyllium or methylcellulose powders or wafers can be used. They can help bulk and soften stool so it is easier to pass. However, fiber supplements are not intended to completely replace high-fiber foods.\n\n"
+      ],
+      "time": 11.30415678024292
+    },
+    {
+      "question": "What are examples of aerobic (cardiovascular) physical activities?",
+      "answer": "Walking, jogging, dancing, bicycling, basketball, soccer, swimming",
+      "sources": [
+        "3_Staying_Active.txt",
+        "3_Staying_Active.txt",
+        "3_Staying_Active.txt"
+      ],
+      "contexts": [
+        "Staying Active\n\nAerobic/Cardiovascular physical activity. These are activities that are intense enough and performed long enough to maintain or improve one\u2019s heart and lung fitness. Examples: walking, jogging, dancing, bicycling, basketball, soccer, swimming\n\nMuscle-strengthening activity. This may be referred to as resistance training. These activities maintain or increase muscle strength, endurance, and power. Examples: weight machines, free weights, resistance elastic bands, Pilates, daily ac",
+        "th, endurance, and power. Examples: weight machines, free weights, resistance elastic bands, Pilates, daily activities of living (lifting children, carrying groceries or laundry, climbing stairs)\n\nFlexibility training. This may be referred to as stretching.\n\nBalance training. These activities are intended to throw off one\u2019s balance to improve body control and stability. They can help to prevent falls and other injuries. Examples: standing on one foot, walking heel-to-toe in a perfectly straight ",
+        "prevent falls and other injuries. Examples: standing on one foot, walking heel-to-toe in a perfectly straight line, standing on a balance or wobble board\n\n126"
+      ],
+      "time": 8.130112409591675
+    },
+    {
+      "question": "I am worried about my heart rate and nervousness.At what daily dosage of my morning beverage does this anxiety risk increase,and what breathing habit can I use to calm my mind immediately?",
+      "answer": "The provided context states that caffeine can increase anxiety at doses of 400 mg or more a day (about 4 cups of brewed coffee).  Therefore, if you\u2019re worried about your heart rate and nervousness, you should limit your caffeine intake to a daily dosage of approximately 400 mg or less.  You can use slow, deep breaths to calm your mind immediately.",
+      "sources": [
+        "7_Caffeine.txt",
+        "4_Stress_and_Health.txt",
+        "7_Caffeine.txt"
+      ],
+      "contexts": [
+        "ping a caffeine tolerance by taking caffeine regularly over time may lower its disruptive effects, those who have trouble sleeping may consider minimizing caffeine intake later in the day and before going to bed.\nCaffeine can increase anxiety at doses of 400 mg or more a day (about 4 cups of brewed coffee). High amounts of caffeine may cause nervousness and speed up heart rate, symptoms that are also felt during an anxiety attack. ",
+        "editation or deep breathing techniques. Fast, shallow breathing and erratic thoughts occur in response to stress. Therefore, take slow deep breaths to reduce muscular tension, lower the heart rate, and calm the mind. Whenever you feel stressed, breathe slowly, focusing on each in- and out-breath. \n\n",
+        "Caffeine\nMany of us can\u2019t imagine starting the day without a cup of coffee. One reason may be that it supplies us with a jolt of caffeine, a mild stimulant to the central nervous system that quickly boosts our alertness and energy levels.\nCaffeine can block the effects of the hormone adenosine, which is responsible for deep sleep. Caffeine binds to adenosine receptors in the brain, which not only lowers adenosine levels but also increases or decreases other hormones that affect sleep, including "
+      ],
+      "time": 15.650051832199097
+    },
+    {
+      "question": "How could a low-fiber diet contribute to increased eating during stress ?",
+      "answer": "A low-fiber diet could contribute to increased eating during stress by making it harder to feel full and satisfied after meals.  Since fiber aids digestion and promotes satiety, a lack of it can lead to a feeling of being hungry more quickly.",
+      "sources": [
+        "4_Stress_and_Health.txt",
+        "4_Stress_and_Health.txt",
+        "1_Fiber.txt"
+      ],
+      "contexts": [
+        "ol Stress:\n\nHealthy diet. A balanced diet can support a healthy immune system and the repair of damaged cells. It provides the extra energy needed to cope with stressful events.\n\nMindful eating. When we \u201cstress-eat,\u201d we eat quickly without noticing what or how much we\u2019re eating, which can lead to weight gain. Mindful eating practices counteract stress by encouraging deep breaths, making thoughtful food choices, focusing attention on the meal, and chewing food slowly and thoroughly. This increase",
+        "thoughtful food choices, focusing attention on the meal, and chewing food slowly and thoroughly. This increases enjoyment of the meal and improves digestion.\n\nRegular exercise. Physical activity will help to lower blood pressure and stress hormone levels. Aerobic exercise like walking and dancing increases breathing and heart rate so that more oxygen reaches cells throughout the body.\n\nMeditation or deep breathing techniques. Fast, shallow breathing and erratic thoughts occur in response to stre",
+        " of fiber per day for good health, but most Americans get only about 15 grams a day. Great sources are whole grains, whole fruits and vegetables, legumes, and nuts.\n\nTips for increasing fiber intake:\nEat whole fruits instead of drinking fruit juices.\nReplace white rice, bread, and pasta with minimally processed brown rice and other whole grains like barley, millet, amaranth, farro, and\nAdd high-fiber foods to current meals: 1-2 tablespoons of almonds, ground flaxseeds, or chia seeds to cereals; "
+      ],
+      "time": 13.281344413757324
+    },
+    {
+      "question": "What is the biochemical pathway linking exercise to reduced stress hormone levels?",
+      "answer": "The provided text doesn't explicitly detail a biochemical pathway linking exercise to reduced stress hormone levels. It focuses on the broader effects of exercise on physical activity and stress management.",
+      "sources": [
+        "4_Stress_and_Health.txt",
+        "3_Staying_Active.txt",
+        "4_Stress_and_Health.txt"
+      ],
+      "contexts": [
+        "thoughtful food choices, focusing attention on the meal, and chewing food slowly and thoroughly. This increases enjoyment of the meal and improves digestion.\n\nRegular exercise. Physical activity will help to lower blood pressure and stress hormone levels. Aerobic exercise like walking and dancing increases breathing and heart rate so that more oxygen reaches cells throughout the body.\n\nMeditation or deep breathing techniques. Fast, shallow breathing and erratic thoughts occur in response to stre",
+        "Staying Active\n\nAerobic/Cardiovascular physical activity. These are activities that are intense enough and performed long enough to maintain or improve one\u2019s heart and lung fitness. Examples: walking, jogging, dancing, bicycling, basketball, soccer, swimming\n\nMuscle-strengthening activity. This may be referred to as resistance training. These activities maintain or increase muscle strength, endurance, and power. Examples: weight machines, free weights, resistance elastic bands, Pilates, daily ac",
+        "Stress and Health\nThe three main types of stress that may occur in our everyday lives: acute (a brief event such as a heated argument or getting stuck in a traffic jam), acute episodic (frequent acute events such as work deadlines), and chronic stress (persistent events like unemployment from a job loss, physical or mental abuse, substance abuse, or family conflict). \n\nTips to Help Control Stress:\n\nHealthy diet. A balanced diet can support a healthy immune system and the repair of damaged cells."
+      ],
+      "time": 10.698466539382935
+    },
+    {
+      "question": "If I avoid screens before bed, does my phone get offended and refuse to wake me up tomorrow?",
+      "answer": "No, your phone doesn\u2019t get offended and refuse to wake you up tomorrow. The text states that if you stop using electronic devices an hour before bed, especially those emitting blue light, you will lower adenosine levels and increase or decrease other hormones that affect sleep. This doesn\u2019t mean your phone is offended.",
+      "sources": [
+        "5_Sleep.txt",
+        "7_Caffeine.txt",
+        "7_Caffeine.txt"
+      ],
+      "contexts": [
+        "tensity interval training or HIIT) one hour before bedtime. Regular exercise of adequate intensity can promote muscle relaxation and deeper sleep later on.\nTry to avoid large meals, heavy snacking, or alcohol 2-3 hours before bed.\nIf you are sensitive to caffeine, try to avoid drinking caffeinated beverages 4-6 hours before bedtime.\nStop using electronic devices an hour before bed, especially those emitting blue light such as smartphones, tablets, and televisions.\nIf you awaken and can\u2019t return ",
+        " not only lowers adenosine levels but also increases or decreases other hormones that affect sleep, including dopamine, serotonin, norepinephrine, and GABA. Levels of melatonin, another hormone promoting sleep, can drop in the presence of caffeine as both are metabolized in the liver. Caffeine intake later in the day close to bedtime can interfere with good sleep quality. Although developing a caffeine tolerance by taking caffeine regularly over time may lower its disruptive effects, those who h",
+        "Caffeine\nMany of us can\u2019t imagine starting the day without a cup of coffee. One reason may be that it supplies us with a jolt of caffeine, a mild stimulant to the central nervous system that quickly boosts our alertness and energy levels.\nCaffeine can block the effects of the hormone adenosine, which is responsible for deep sleep. Caffeine binds to adenosine receptors in the brain, which not only lowers adenosine levels but also increases or decreases other hormones that affect sleep, including "
+      ],
+      "time": 14.371500968933105
+    },
+    {
+      "question": "How many cups of coffee does it take before I legally become a jittery hummingbird?",
+      "answer": "The context doesn\u2019t provide information about the caffeine dosage needed to trigger jitters. It focuses on the effects of caffeine and how it can impact sleep and anxiety.",
+      "sources": [
+        "7_Caffeine.txt",
+        "7_Caffeine.txt",
+        "1_Fiber.txt"
+      ],
+      "contexts": [
+        "ping a caffeine tolerance by taking caffeine regularly over time may lower its disruptive effects, those who have trouble sleeping may consider minimizing caffeine intake later in the day and before going to bed.\nCaffeine can increase anxiety at doses of 400 mg or more a day (about 4 cups of brewed coffee). High amounts of caffeine may cause nervousness and speed up heart rate, symptoms that are also felt during an anxiety attack. ",
+        "Caffeine\nMany of us can\u2019t imagine starting the day without a cup of coffee. One reason may be that it supplies us with a jolt of caffeine, a mild stimulant to the central nervous system that quickly boosts our alertness and energy levels.\nCaffeine can block the effects of the hormone adenosine, which is responsible for deep sleep. Caffeine binds to adenosine receptors in the brain, which not only lowers adenosine levels but also increases or decreases other hormones that affect sleep, including ",
+        " of fiber per day for good health, but most Americans get only about 15 grams a day. Great sources are whole grains, whole fruits and vegetables, legumes, and nuts.\n\nTips for increasing fiber intake:\nEat whole fruits instead of drinking fruit juices.\nReplace white rice, bread, and pasta with minimally processed brown rice and other whole grains like barley, millet, amaranth, farro, and\nAdd high-fiber foods to current meals: 1-2 tablespoons of almonds, ground flaxseeds, or chia seeds to cereals; "
+      ],
+      "time": 13.119943380355835
+    },
+    {
+      "question": "If fiber keeps me regular, can too much of it make me punctual for things I was not even planning to attend?",
+      "answer": "The context doesn't address whether too much fiber makes you punctual for things you weren\u2019t planning. It focuses on the benefits of fiber for regulating blood sugar and preventing hunger and blood sugar spikes.",
+      "sources": [
+        "1_Fiber.txt",
+        "1_Fiber.txt",
+        "1_Fiber.txt"
+      ],
+      "contexts": [
+        "Fiber\nFiber is a type of carbohydrate that the body can\u2019t digest. Though most carbohydrates are broken down into sugar molecules called glucose, fiber cannot be broken down into sugar molecules, and instead it passes through the body undigested. Fiber helps regulate the body\u2019s use of sugars, helping to keep hunger and blood sugar in check.\nChildren and adults need at least 25 to 35 grams of fiber per day for good health, but most Americans get only about 15 grams a day. Great sources are whole g",
+        " of fiber per day for good health, but most Americans get only about 15 grams a day. Great sources are whole grains, whole fruits and vegetables, legumes, and nuts.\n\nTips for increasing fiber intake:\nEat whole fruits instead of drinking fruit juices.\nReplace white rice, bread, and pasta with minimally processed brown rice and other whole grains like barley, millet, amaranth, farro, and\nAdd high-fiber foods to current meals: 1-2 tablespoons of almonds, ground flaxseeds, or chia seeds to cereals; ",
+        "ot intended to completely replace high-fiber foods.\n\n"
+      ],
+      "time": 11.048976421356201
+    },
+    {
+      "question": "What is the simple change I can make to my grains (rice/bread) to boost my fiber intake?",
+      "answer": "Replace white rice, bread, and pasta with minimally processed brown rice and other whole grains like barley, millet, amaranth, farro, and sesame seeds.",
+      "sources": [
+        "1_Fiber.txt",
+        "1_Fiber.txt",
+        "1_Fiber.txt"
+      ],
+      "contexts": [
+        " of fiber per day for good health, but most Americans get only about 15 grams a day. Great sources are whole grains, whole fruits and vegetables, legumes, and nuts.\n\nTips for increasing fiber intake:\nEat whole fruits instead of drinking fruit juices.\nReplace white rice, bread, and pasta with minimally processed brown rice and other whole grains like barley, millet, amaranth, farro, and\nAdd high-fiber foods to current meals: 1-2 tablespoons of almonds, ground flaxseeds, or chia seeds to cereals; ",
+        "dd high-fiber foods to current meals: 1-2 tablespoons of almonds, ground flaxseeds, or chia seeds to cereals; diced vegetables to casseroles, stir-fried dishes, and soups.\nFor breakfast, choose cereals that have a whole grain as their first ingredient. Another tip is to look on the Nutrition Facts label and choose cereals with 20% or higher of the Daily Value (DV) for fiber.\nSnack on crunchy raw vegetables or a handful of almonds instead of chips and crackers.\nSubstitute beans or legumes for mea",
+        "nchy raw vegetables or a handful of almonds instead of chips and crackers.\nSubstitute beans or legumes for meat two to three times a week in chili and soups.\nIf it is difficult to eat enough fiber through food, a fiber supplement such as psyllium or methylcellulose powders or wafers can be used. They can help bulk and soften stool so it is easier to pass. However, fiber supplements are not intended to completely replace high-fiber foods.\n\n"
+      ],
+      "time": 12.425180435180664
+    }
+  ]
+}

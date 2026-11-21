@@ -1,0 +1,160 @@
+{
+  "metrics": {
+    "total_questions": 10,
+    "successful_retrievals": 10,
+    "hit_rate": 1.0,
+    "average_latency": 52.59304344654083
+  },
+  "results": [
+    {
+      "question": "According to the documents, what is dietary fiber and why does it pass through the body mostly unchanged?",
+      "answer": " Dietary fiber refers to the indigestible part of plant foods that your body cannot fully break down or absorb. It passes through the body mostly unchanged because unlike sugars and starches, our bodies do not have enzymes to break it down for energy. This is why it supports digestion by slowing down the process and helping control bowel movements.",
+      "sources": [
+        "1_What Fiber Is and Why It Matters.txt",
+        "1_What Fiber Is and Why It Matters.txt",
+        "1_What Fiber Is and Why It Matters.txt"
+      ],
+      "contexts": [
+        "Dietary fiber is the part of plant foods that your body cannot fully digest. Unlike sugars and starches, fiber moves through your digestive system mos",
+        "ough your digestive system mostly unchanged. You may wonder: Why does something we don't digest matter so much? Fiber supports digestion, helps contro",
+        "ems. Common questions include: Does fiber help with weight loss? Does fiber help digestion? Yes\u2014fiber slows digestion, supports the gut, and helps reg"
+      ],
+      "time": 48.008909463882446
+    },
+    {
+      "question": "Based on the document, how do soluble and insoluble fiber differ in their functions?",
+      "answer": " Soluble fiber slows digestion, helps control nutrient absorption, and can be broken down by gut bacteria in the colon to provide food. Insoluble fiber does not dissolve in water during digestion and does not form a gel-like texture. It primarily adds bulk to the stool and promotes regular bowel movements, but it doesn't significantly impact nutrient absorption or serve as food for gut bacteria like soluble fiber does.",
+      "sources": [
+        "2_Soluble vs. Insoluble Fiber.txt",
+        "2_Soluble vs. Insoluble Fiber.txt",
+        "4_Fiber and Digestive Health.txt"
+      ],
+      "contexts": [
+        "Fiber comes in two major categories: soluble and insoluble. A frequent question is: What\u2019s the difference between soluble and insoluble fiber? Soluble",
+        "e and insoluble fiber? Soluble fiber dissolves in water and forms a gel-like texture during digestion. Insoluble fiber does not dissolve and instead a",
+        "fort\nSoluble fiber slows digestion and helps control nutrient absorption. In the colon, certain soluble fibers become food for gut bacteria.\n\nFiber an"
+      ],
+      "time": 53.63337254524231
+    },
+    {
+      "question": "What fiber subtypes are described in the documents, and what role do they play in digestion or health?",
+      "answer": " The document mentions six fiber subtypes: cellulose, hemicellulose, lignin, pectins, beta-glucans, and resistant starch. These fibers play various roles in digestion and health:\n\n1. Cellulose: A primary component of plant cell walls, it is not easily digested by humans but is fermented by gut bacteria, supporting gut health.\n2. Hemicellulose: Found along with cellulose in the plant cell wall, it is partially broken down and fermented by gut microbes, contributing to fiber's overall benefits for gut health.\n3. Lignin: A complex polymer that provides structural support to plants, it is not digested by humans but may be fermented by certain gut bacteria.\n4. Pectins: Found in the cell walls of fruits and vegetables, they are soluble fibers that can help lower cholesterol levels, aid in weight management, and improve digestion.\n5. Beta-glucans: Found primarily in oats, barley, mushrooms, and seaweed, they have been shown to reduce LDL (\"bad\") cholesterol, improve immune function, and support gut health.\n6. Resistant starch: A type of dietary fiber that resists digestion in the small intestine but is broken down by gut bacteria in the large intestine, contributing to benefits like improved digestion, weight management, and reduced blood sugar levels.",
+      "sources": [
+        "3_Different Kinds of Fiber.txt",
+        "1_What Fiber Is and Why It Matters.txt",
+        "5_Fiber and Chronic Disease Prevention.txt"
+      ],
+      "contexts": [
+        "h cholesterol? Which fiber supports gut health? Subtypes include cellulose, hemicellulose, lignin, pectins, beta-glucans, and resistant starch.\n\nInsol",
+        "ems. Common questions include: Does fiber help with weight loss? Does fiber help digestion? Yes\u2014fiber slows digestion, supports the gut, and helps reg",
+        "e, diabetes, colon cancer, and digestive disorders, making fiber a powerful long-term health tool."
+      ],
+      "time": 113.74093413352966
+    },
+    {
+      "question": "How does the document describe fiber\u2019s role in digestion and bowel regularity?",
+      "answer": " The document describes fiber's role in digestion and bowel regularity as follows:\n\n1. Fiber slows down the digestion process, which helps regulate the rate at which nutrients are absorbed into the body.\n2. Fiber supports the gut by keeping it moving regularly through the digestive system, ensuring waste moves smoothly and efficiently.\n3. Soluble fiber, in particular, can become food for gut bacteria in the colon. This means that soluble fiber plays a role in supporting a healthy population of gut bacteria, which is important for overall digestive health.",
+      "sources": [
+        "1_What Fiber Is and Why It Matters.txt",
+        "1_What Fiber Is and Why It Matters.txt",
+        "4_Fiber and Digestive Health.txt"
+      ],
+      "contexts": [
+        "ems. Common questions include: Does fiber help with weight loss? Does fiber help digestion? Yes\u2014fiber slows digestion, supports the gut, and helps reg",
+        "ough your digestive system mostly unchanged. You may wonder: Why does something we don't digest matter so much? Fiber supports digestion, helps contro",
+        "fort\nSoluble fiber slows digestion and helps control nutrient absorption. In the colon, certain soluble fibers become food for gut bacteria.\n\nFiber an"
+      ],
+      "time": 65.063640832901
+    },
+    {
+      "question": "What does the document say about fermentable fibers and their relationship to gut bacteria?",
+      "answer": " The document states that fermentable fibers support gut bacteria by providing them with a substrate for growth. In the colon, these fermentable fibers become food for gut bacteria, which then produce short-chain fatty acids that help protect the colon.",
+      "sources": [
+        "4_Fiber and Digestive Health.txt",
+        "4_Fiber and Digestive Health.txt",
+        "5_Fiber and Chronic Disease Prevention.txt"
+      ],
+      "contexts": [
+        "od for gut bacteria.\n\nFiber and the Microbiome\nFermentable fibers support gut bacteria, which produce short-chain fatty acids that help protect colon ",
+        "fort\nSoluble fiber slows digestion and helps control nutrient absorption. In the colon, certain soluble fibers become food for gut bacteria.\n\nFiber an",
+        "er Prevention\nFiber increases stool bulk and dilutes harmful substances in the colon. Fermentable fibers also produce short-chain fatty acids that sup"
+      ],
+      "time": 42.22443413734436
+    },
+    {
+      "question": "According to the document, how does fiber intake support long-term disease prevention?",
+      "answer": " According to the context provided, fiber supports long-term disease prevention by promoting regular bowel movements, which can help prevent colon cancer and other digestive disorders. Additionally, it helps lower cholesterol levels, potentially reducing the risk of heart disease. However, the text does not explicitly state that fiber directly prevents diabetes. Therefore, the answer is that fiber intake supports long-term disease prevention primarily by promoting regularity in the digestive system and reducing cholesterol levels.",
+      "sources": [
+        "5_Fiber and Chronic Disease Prevention.txt",
+        "1_What Fiber Is and Why It Matters.txt",
+        "1_What Fiber Is and Why It Matters.txt"
+      ],
+      "contexts": [
+        "e, diabetes, colon cancer, and digestive disorders, making fiber a powerful long-term health tool.",
+        "ng-term wellness.\n\nGeneral Health Benefits\nFiber supports regular bowel movements, steadier energy, and lower cholesterol levels. Research shows that ",
+        "ts. Many people search for \u201chigh-fiber foods\u201d or \u201cfiber benefits\u201d because fiber plays a big role in daily comfort and long-term wellness.\n\nGeneral Hea"
+      ],
+      "time": 45.2948956489563
+    },
+    {
+      "question": "How much fiber should adults aim for per day, and why does the document recommend increasing intake gradually?",
+      "answer": " Adults should aim for 25-38 grams of fiber per day depending on age and sex. The gradual increase in fiber intake is recommended to allow the body time to adjust and prevent digestive discomfort that may occur with an abrupt change in dietary fiber consumption.",
+      "sources": [
+        "6_How to Increase Fiber Intake.txt",
+        "6_How to Increase Fiber Intake.txt",
+        "1_What Fiber Is and Why It Matters.txt"
+      ],
+      "contexts": [
+        "Daily Recommendations\nPeople often ask: How much fiber do I need each day? Most adults should aim for 25\u201338 grams depending on age and sex.\n\nSimple Wa",
+        " daily fiber goals.",
+        "ts. Many people search for \u201chigh-fiber foods\u201d or \u201cfiber benefits\u201d because fiber plays a big role in daily comfort and long-term wellness.\n\nGeneral Hea"
+      ],
+      "time": 36.54148578643799
+    },
+    {
+      "question": "What practical strategies do the documents suggest for increasing daily fiber intake?",
+      "answer": " The context does not provide specific practical strategies, but it suggests that people can increase their daily fiber intake by consuming more whole foods which are often rich in fiber. Additionally, individuals might search for \"high-fiber foods\" or information about \"fiber benefits\", implying that such resources could offer practical strategies for incorporating high-fiber foods into one's diet.",
+      "sources": [
+        "6_How to Increase Fiber Intake.txt",
+        "1_What Fiber Is and Why It Matters.txt",
+        "1_What Fiber Is and Why It Matters.txt"
+      ],
+      "contexts": [
+        " daily fiber goals.",
+        "upports the gut, and helps regulate appetite.\n\nMany people fall short of recommended fiber intake because modern diets include fewer whole foods. Unde",
+        "ts. Many people search for \u201chigh-fiber foods\u201d or \u201cfiber benefits\u201d because fiber plays a big role in daily comfort and long-term wellness.\n\nGeneral Hea"
+      ],
+      "time": 34.93627953529358
+    },
+    {
+      "question": "What type of fiber does the document recommend for people with IBS or digestive sensitivities?",
+      "answer": " The context does not specifically mention a particular type of fiber recommended for people with IBS (Irritable Bowel Syndrome) or digestive sensitivities. However, it suggests that fiber in general can help regulate the digestive system and support gut health, which is beneficial for those with digestive issues. It's always best to consult a healthcare professional for personalized advice on dietary needs related to specific health conditions.",
+      "sources": [
+        "1_What Fiber Is and Why It Matters.txt",
+        "1_What Fiber Is and Why It Matters.txt",
+        "4_Fiber and Digestive Health.txt"
+      ],
+      "contexts": [
+        "ems. Common questions include: Does fiber help with weight loss? Does fiber help digestion? Yes\u2014fiber slows digestion, supports the gut, and helps reg",
+        "ough your digestive system mostly unchanged. You may wonder: Why does something we don't digest matter so much? Fiber supports digestion, helps contro",
+        "acids that help protect colon cells and reduce inflammation. Many people searching \u201cgut health tips\u201d are actually looking for more fiber.\n\nLow-Fiber D"
+      ],
+      "time": 44.472697734832764
+    },
+    {
+      "question": "What examples of high-fiber snacks are listed in the document?",
+      "answer": " Fruits, raw vegetables, nuts, seeds, popcorn, whole-grain crackers, beans, lentils, and chickpeas are all examples of high-fiber snacks listed in the document.",
+      "sources": [
+        "8_Everyday Practical Tips for Eating More Fiber.txt",
+        "6_How to Increase Fiber Intake.txt",
+        "8_Everyday Practical Tips for Eating More Fiber.txt"
+      ],
+      "contexts": [
+        "ions. These swaps increase fiber without dramatically changing meals.\n\nHigh-Fiber Snacks\nFruits, raw vegetables, nuts, seeds, popcorn, and whole-grain",
+        "ns\u2014to meals and snacks.\n\nUse Fiber-Rich Foods Daily\nBeans, lentils, chickpeas, nuts, and seeds are some of the richest fiber sources. Adding beans to ",
+        "eeds, popcorn, and whole-grain crackers make excellent daily snacks. These foods help fill the common request for \u201chigh-fiber snack ideas.\u201d\n\nAdd Beans"
+      ],
+      "time": 42.013784646987915
+    }
+  ]
+}
